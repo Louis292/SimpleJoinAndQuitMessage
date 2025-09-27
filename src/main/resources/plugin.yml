@@ -1,0 +1,5 @@
+name: SimpleJoinAndQuitMessage
+version: '1.0.0'
+main: fr.Louis292.simpleJoinAndQuitMessage.SimpleJoinAndQuitMessage
+api-version: '1.21'
+author: Louis_292

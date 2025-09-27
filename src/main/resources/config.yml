@@ -1,0 +1,19 @@
+# Simple Join And Quit Message plugin created by Louis_292
+# This is the config file
+
+# if is enabled, the {PLAYER} is the player display name
+use_displayName: false
+
+# settings of the quit message
+quit:
+  require_permission: false
+  permission: "quit.permission"
+  active: true
+  message: "{PLAYER} has quit !"
+
+# settings of the join message
+join:
+  require_permission: false
+  permission: "join.permission"
+  active: true
+  message: "Welcome to the server {PLAYER} !"
